@@ -1,27 +1,27 @@
 {
     "title": "關於五倍紅寶石 About 5xRuby",
     "feature": [
-        {   
+        {
             "title": "前後端課程教學",
-            "img_url": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img1-0d20ab19.png",
+            "imgUrl": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img1-0d20ab19.png",
             "content": "前後端課程教學帶你掌握程式技能轉職工程師，程式課程從入門到進階讓你快速上手，學員好評推薦轉職課程！",
             "href": "/"
         },
-        {   
+        {
             "title": "網頁製作、專案開發",
-            "img_url": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img2-26e4ca80.png",
+            "imgUrl": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img2-26e4ca80.png",
             "content": "前後端課程教學帶你掌握程式技能轉職工程師，程式課程從入門到進階讓你快速上手，學員好評推薦轉職課程！",
             "href": "/"
         },
-        {   
+        {
             "title": "技術顧問",
-            "img_url": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img3-d0a4089e.png",
+            "imgUrl": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img3-d0a4089e.png",
             "content": "協助您將現有人力快速打造為 Ruby/Rails 團隊，無需經歷繁瑣的人才招募就有即戰力！",
             "href": "/"
         },
-        {   
+        {
             "title": "社群經營",
-            "img_url": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img4-13321bf0.png",
+            "imgUrl": "https://5xruby.tw/assets/images/index/feature-list/feature-list-img4-13321bf0.png",
             "content": "前後端課程教學帶你掌握程式技能轉職工程師，程式課程從入門到進階讓你快速上手，學員好評推薦轉職課程！",
             "href": "/"
         }

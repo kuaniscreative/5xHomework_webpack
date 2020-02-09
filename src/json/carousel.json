@@ -1,19 +1,19 @@
 {
     "carouselItem": [
         {
-            "img_url": "https://5xruby.tw/assets/images/index/banner_astro/medium-68da60f6.jpg",
+            "imgUrl": "https://5xruby.tw/assets/images/index/banner_astro/medium-68da60f6.jpg",
             "href": "/"
         },
         {
-            "img_url": "https://5xruby.tw/assets/images/index/banner_imcodingit/medium-ac7b6c1c.jpg",
+            "imgUrl": "https://5xruby.tw/assets/images/index/banner_imcodingit/medium-ac7b6c1c.jpg",
             "href": "/"
         },
         {
-            "img_url": "https://5xruby.tw/assets/images/index/banner_mokumokukai/medium-7e04c28f.jpg",
+            "imgUrl": "https://5xruby.tw/assets/images/index/banner_mokumokukai/medium-7e04c28f.jpg",
             "href": "/"
         },
         {
-            "img_url": "https://5xruby.tw/assets/images/index/banner_5xruby/medium-31d58562.jpg",
+            "imgUrl": "https://5xruby.tw/assets/images/index/banner_5xruby/medium-31d58562.jpg",
             "href": "/"
         }
     ]

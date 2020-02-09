@@ -1,15 +1,12 @@
-import React from "react";
+import React from 'react';
 
-// components 
+// components
 import DemoRoute from './demoRoute';
 
-const Space = () => {
-
-    return (
-        <DemoRoute>
-            <h1>空間租借</h1>
-        </DemoRoute>
-    )
-};
+const Space = () => (
+  <DemoRoute>
+    <h1>空間租借</h1>
+  </DemoRoute>
+);
 
 export default Space;

@@ -1,15 +1,12 @@
-import React from "react";
+import React from 'react';
 
-// components 
+// components
 import DemoRoute from './demoRoute';
 
-const Dev = () => {
-
-    return (
-        <DemoRoute>
-            <h1>專案開發</h1>
-        </DemoRoute>
-    )
-};
+const Dev = () => (
+  <DemoRoute>
+    <h1>專案開發</h1>
+  </DemoRoute>
+);
 
 export default Dev;

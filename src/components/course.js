@@ -1,15 +1,12 @@
-import React from "react";
+import React from 'react';
 
-// components 
+// components
 import DemoRoute from './demoRoute';
 
-const Course = () => {
-
-    return (
-        <DemoRoute>
-            <h1>線上課程</h1>
-        </DemoRoute>
-    )
-};
+const Course = () => (
+  <DemoRoute>
+    <h1>線上課程</h1>
+  </DemoRoute>
+);
 
 export default Course;

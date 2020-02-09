@@ -4,25 +4,25 @@
             "person": "Victor Lam",
             "identity": "連續創業家，自由工作者",
             "feedback": "Programmer 最有價值的是經驗值，「五倍紅寶石」的導師都是社群內數一數二的資深 Rubyist，由他們來帶領學員一探 Ruby 世界的神奇之處，實在是最佳選擇。",
-            "img_url": "https://5xruby.tw/assets/images/testimoney/avatar/victor-3ec52916.jpg"
+            "imgUrl": "https://5xruby.tw/assets/images/testimoney/avatar/victor-3ec52916.jpg"
         },
         {
             "person": "Jason Hs",
             "identity": "founder of The Big Questions & TEDxTaipei",
             "feedback": "Eddie and his team are of the most dedicated Ruby evangelists I have ever come across. With their passion and professionalism, Ruby learners will leapfrog in their progress.",
-            "img_url": "https://5xruby.tw/assets/images/testimoney/avatar/jason-e7e95cad.jpg"
+            "imgUrl": "https://5xruby.tw/assets/images/testimoney/avatar/jason-e7e95cad.jpg"
         },
         {
             "person": "Felix Lin",
             "identity": "dappei.com 「搭配」網站創辦人",
             "feedback": "還在尋找專業的 Ruby/Rails 師資嗎？別懷疑了，台灣最頂尖的 Rubyist 盡在「五倍紅寶石」！",
-            "img_url": "https://5xruby.tw/assets/images/testimoney/avatar/felix-d1d4db69.jpg"
+            "imgUrl": "https://5xruby.tw/assets/images/testimoney/avatar/felix-d1d4db69.jpg"
         },
         {
             "person": "Hana Chang",
             "identity": "Co-Founder and CEO of BountyHunter",
             "feedback": "慕凡和龍哥是業界數一數二的 Ruby 大師，他們不光是底子深厚，也很懂得引導、訓練學習路上遇到挫折的 Ruby/Rails 學子。很慶幸有他們的協助讓我進入紅寶石的美妙世界。",
-            "img_url": "https://5xruby.tw/assets/images/testimoney/avatar/hana-4ae009cb.jpg"
+            "imgUrl": "https://5xruby.tw/assets/images/testimoney/avatar/hana-4ae009cb.jpg"
         }
     ]
 }
