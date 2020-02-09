@@ -23,6 +23,7 @@
       0,
       "always",
       { "ignoreClassFields": true }
-    ]
+    ],
+    "import/no-named-as-default": 0
   }
 }
