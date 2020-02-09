@@ -1,0 +1,33 @@
+{
+    "logo_url": "https://5xruby.tw/assets/images/navbar/logo-c473f739.png",
+    "navItem": [
+        {
+            "text": "線上課程",
+            "route": "/course"
+        },
+        {
+            "text": "短期課程",
+            "route": "/talks"
+        },
+        {
+            "text": "專案開發",
+            "route": "/dev"
+        },
+        {
+            "text": "企業代訓",
+            "route": "/training"
+        },
+        {
+            "text": "空間租借",
+            "route": "/space"
+        },
+        {
+            "text": "最新消息",
+            "route": "/posts"
+        },
+        {
+            "text": "聯絡我們",
+            "route": "/contacts"
+        }
+    ]
+}

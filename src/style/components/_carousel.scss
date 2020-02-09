@@ -1,0 +1,62 @@
+.carousel {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+
+/**
+ *
+ * This carousel container remains the same aspect ratio with any screnn size.
+ * The trick is that the padding-top % unit takes its width as base.
+ * The aspect ratio is 3:1
+ *
+ */
+
+
+.carousel_container {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding-top: 41.4%;
+}
+
+.carousel_itemWrapper {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+}
+
+.carousel_img {
+    flex: 0 0 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+// indicators
+
+.carousel_indicator {
+    display: block;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.indicator {
+    display: inline-block;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 1em;
+    border: 1px solid white;
+    margin: 0.5em;
+    background: white;
+    cursor: pointer;
+}
+
+.indicator.active {
+    background: $ruby;
+}

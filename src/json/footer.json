@@ -1,0 +1,48 @@
+{
+    "navItem": [
+        {
+            "name": "關於五倍紅寶石",
+            "href": "/"
+        },
+        {
+            "name": "媒體報導",
+            "href": "/"
+        },
+        {
+            "name": "團隊成員",
+            "href": "/"
+        },
+        {
+            "name": "聯絡詢價",
+            "href": "/"
+        },
+        {
+            "name": "常見問題",
+            "href": "/"
+        },
+        {
+            "name": "工作機會",
+            "href": "/"
+        },
+        {
+            "name": "開源專案",
+            "href": "/"
+        },
+        {
+            "name": "隱私權條款",
+            "href": "/"
+        },
+        {
+            "name": "服務條款",
+            "href": "/"
+        }
+    ],
+    "press": [
+        {
+            "img_url": "https://5xruby.tw/assets/images/footer/press-img-3161693e.png"
+        },
+        {
+            "img_url": "https://5xruby.tw/assets/images/footer/cakeresume-8938f367.png"
+        }
+    ]
+}

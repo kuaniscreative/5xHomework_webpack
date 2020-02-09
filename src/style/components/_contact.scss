@@ -1,0 +1,80 @@
+#contacts {
+    .contactForm_wrapper {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+}
+
+.contacts_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 144px;
+    background: $ruby;
+
+    h1 {
+        font-size: 2rem;
+        font-weight: 500;
+        color: $gray-0;
+    }
+}
+
+/**
+ *
+ * form style
+ *
+ */
+
+.contactForm {
+    label {
+        display: block;
+        font-size: 0.75rem;
+        margin-bottom: 0.5em;
+    }
+    input,
+    select,
+    textarea {
+        display: block;
+        border-bottom: 1px solid $gray-1;
+        padding: 0.5em 0;
+        margin-bottom: 2.5em;
+        font-size: 1.5rem;
+    }
+    select {
+        border: none;
+        padding-top: 0.75em;
+    }
+
+    option:disabled {
+        color: $ruby
+    }
+
+    textarea {
+        width: 100%;
+        margin-top: 0.5em;
+        border: 1px solid $gray-1;
+    }
+
+    ::placeholder {
+        color: $gray-2;
+    }
+
+    input:valid {
+        border: none;
+    }
+
+    input:focus {
+        border-bottom: 1px solid $gray-1;
+    }
+
+    button {
+        width: 100%;
+        padding: 1em;
+        border-radius: 4px;
+        text-align: center;
+        font-size: 1.2rem;
+        background: $ruby;
+        color: white;
+    }
+}

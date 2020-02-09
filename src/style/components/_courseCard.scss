@@ -1,0 +1,75 @@
+.coverCard {
+    margin-bottom: 1.5rem;
+}
+
+.courseCard_imgContainer {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding-top: 75%;
+
+    img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+    }
+}
+
+.courseCard_tagWrapper {
+    span:first-child {
+        margin-left: 0;
+    }
+}
+
+.courseCard_title {
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2em;
+    margin: 8px 0 24px 0;
+    color: $gray-5;
+}
+.courseCard_instructor {
+    font-size: 0.9em;
+    color: $gray-3;
+}
+
+.courseCard_timeInfo {
+    padding-top: 1.5rem;
+    border-top: 1px solid $gray-1;
+    margin-top: 1rem;
+
+    span:nth-child(1) {
+        display: inline-block;
+        margin-right: 12px;
+        font-size: 0.9em;
+        color: $gray-3;
+    }
+    span:nth-child(2) {
+        display: inline-block;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color: $gray-5;
+        background: $gray-1;
+    }
+}
+
+.tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 4px 8px;
+    border-radius: 2px;
+    margin: 0 4px;
+    color: white;
+}
+
+.tag_newCourse {
+    background: #fd8f46;
+}
+
+.tag_opening {
+    background: $ruby;
+}

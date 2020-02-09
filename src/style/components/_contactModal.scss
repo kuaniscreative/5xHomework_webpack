@@ -1,0 +1,61 @@
+.ReactModal__Overlay {
+    z-index: 100;
+}
+
+.modal_section {
+    margin-bottom: 3rem;
+
+    h1 {
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+        color: $gray-4;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+}
+
+.modal_closeArea {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    margin-bottom: 1rem;
+
+    button {
+        flex: 0 0 32px;
+        display: inline-block;
+        position: relative;
+        width: 32px;
+        height: 32px;
+        background: $ruby;
+    }
+}
+
+.closeIcon {
+    display: block;
+    position: absolute;
+    width: 24px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+    &:after,
+    &:before {
+        content: '';
+        display: block;
+        position: relative;
+        width: 100%;
+        height: 2px;
+        background: white;
+        transform-origin: calc(50% - 1px) calc(50%);
+    }
+    &:after {
+        transform: rotate(-45deg);
+    }
+    &:before {
+        transform: rotate(45deg);
+    }
+
+}

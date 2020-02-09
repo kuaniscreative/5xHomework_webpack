@@ -1,0 +1,19 @@
+{
+    "showcase": [
+        {
+            "img_url": "https://5xruby.tw/assets/images/showcases/space_next_door-4dfdfeb6.png",
+            "name": "SpaceNextDoor",
+            "description": "Space Next Door is inspired by the sharing economy in which we hope to encourage people to put up their unused space so that users looking for personal or business storage space have better options, closer to where they need it. We are striving to build a trusted community marketplace for you to list, discover and book the nearest and best space at affordable prices."
+        },
+        {
+            "img_url": "https://5xruby.tw/assets/images/showcases/shopmatic_go-f7b86d46.png",
+            "name": "Shopmatic Go",
+            "description": "Shopmatic Go is an exciting online platform where you can create a unique and comprehensive online store for your business, in a matter of minutes."
+        },
+        {
+            "img_url": "https://5xruby.tw/assets/images/showcases/shopmatic-92ff9dcf.jpg",
+            "name": "跨境電子商務 Shopmatic",
+            "description": "Shopmatic manages the entire ecosystem for anyone wanting to sell online. We go the extra mile to ensure that we help you in every step of the process to grow your business online - from developing your own unique webstore, to listing you on marketplaces and social channels, to providing you insights on how to sell online."
+        }
+    ]
+}

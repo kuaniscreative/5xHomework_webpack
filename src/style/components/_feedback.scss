@@ -1,0 +1,15 @@
+#feedback {
+    .carousel_container {
+        padding-top: 20%;
+
+        @include media('below-desktop') {
+            padding-top: 24%;
+        }
+        @include media("below-tablet") {
+            padding-top: 32%;
+        }
+        @include media('below-mobile') {
+            padding-top: 64%;
+        }
+    }
+}

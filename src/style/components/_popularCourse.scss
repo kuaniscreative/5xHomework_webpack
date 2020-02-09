@@ -1,0 +1,5 @@
+.popularCourse_cardWrapper:nth-child(3) {
+    @include media("below-tablet") {
+        display: none;
+    }
+}

@@ -1,0 +1,9 @@
+.block {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.block:nth-child(even) {
+    background: $gray-0;
+}

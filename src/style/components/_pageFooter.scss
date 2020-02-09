@@ -1,0 +1,70 @@
+#pageFooter {
+    padding: 2rem 0;
+    background: $gray-1;
+}
+
+.press_imgWrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 1rem;
+    filter: grayscale(100%);
+
+    img {
+        width: 100%;
+    }
+}
+.press_imgWrapper:hover {
+    filter: none;
+}
+.press_imgWrapper:last-child {
+    margin-bottom: 2rem;
+}
+.pageFooter_section {
+    margin-bottom: 2rem;
+}
+
+.pageFooter_nav {
+    line-height: 2.5em;
+}
+
+.pageFooter_navItem {
+    display: inline-block;
+    font-weight: 500;
+    color: $black;
+    margin-right: 1.5em;
+
+    @include media('below-tablet') {
+        font-size: 0.9rem;
+    }
+}
+
+.pageFooter_navItem:hover {
+    color: $ruby;
+}
+
+.pageFooter_contactInfo {
+    margin-bottom: 1rem;
+}
+
+.pageFooter_contactHighlght {
+    font-weight: 500;
+    line-height: 1.5em;
+    font-size: 1.5rem;
+    color: $ruby;
+}
+
+.pageFooter_contactSecondary {
+    font-size: 0.75rem;
+    font-weight: 500;
+    line-height: 2em;
+}
+
+.pageFooter_copyright {
+    padding: 2rem;
+    p {
+        text-align: center;
+        font-size: 0.75rem;
+        line-height: 2em;
+    }
+}

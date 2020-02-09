@@ -1,0 +1,32 @@
+.titledContainer {
+    padding: 3rem 0;
+}
+
+.titledContainer_wrapper {
+    margin: 1rem 0;
+}
+
+.titledContainer_title {
+    display: block;
+    width: 100%;
+    padding: 1em 0;
+    margin-bottom: 1em;
+    font-size: 1.5rem;
+    color: $black;
+
+    h1 {
+        text-align: center;
+
+        &:after {
+            content: "";
+            display: block;
+            position: absolute;
+            width: 64px;
+            height: 2px;
+            bottom: 0;
+            left: 50%;
+            transform: translate(-50%, 0);
+            background: $ruby;
+        }
+    }
+}

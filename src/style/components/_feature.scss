@@ -1,0 +1,28 @@
+.featureSingle {
+    .imgContainer {
+        display: block;
+        width: 100%;
+        position: relative;
+    }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h2 {
+        font-size: 1.5rem;
+        padding: 0.75em 0;
+        line-height: 1.2em;
+        text-align: center;
+    }
+    p {
+        color: $gray-5;
+        letter-spacing: 1px;
+        line-height: 1.5em;
+        text-align: center;
+    }
+
+    @include media('below-tablet') {
+        margin-bottom: 2rem;
+    }
+}
