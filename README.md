@@ -1,4 +1,4 @@
-# 5xHomework
+# 5xHomework Webpack
 
 此專案依照 [5xTraining: 前端](https://github.com/5xRuby/5xtraining/blob/master/frontend.md) 步驟執行，目的在於確認 React 熟悉度。
 
